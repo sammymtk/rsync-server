@@ -28,7 +28,7 @@ timeout = 300
 max connections = 10
 port = 873
 
-[volume]
+[Backup]
 	uid = root
 	gid = root
 	hosts deny = *
